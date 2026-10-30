@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/avatar.png" width="128" alt="Dandiya K: a K made of a garba stick and two crossed dandiya sticks inside a garba circle" />
+  <img src="assets/avatar.png" width="128" alt="A glowing garbo with rings of garba dancers circling it" />
 
   # Hi, I'm Krishiv 👋
 
