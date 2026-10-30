@@ -1,30 +1,41 @@
 <div align="center">
-  <img src="assets/k-monogram.png" width="110" alt="Calligraphic K monogram" />
+  <img src="assets/avatar.png" width="128" alt="Dandiya K: a K made of a garba stick and two crossed dandiya sticks inside a garba circle" />
 
-  # Building for the web. Creating for people.
+  # Hi, I'm Krishiv 👋
 
-  **I'm @krishivsurti — a web developer building useful web and Android experiences.**
+  **I build apps people use every day, for the web, Android and Windows.**
 
-  From my first calculator app to a music platform, I enjoy turning ideas into products people can use.
+  From a calculator in 2024 to a music platform and an encrypted file-transfer app,<br>
+  I like turning ideas into finished, polished products.
 
-  [Try Zumuro](https://zumuro.web.app) · [Explore my first app](https://github.com/krishivsurti/Ganakayantra)
+  <a href="https://zumuro.web.app"><img alt="Zumuro" src="https://img.shields.io/badge/Zumuro-music_home-FF9933?style=for-the-badge&logoColor=17110B" /></a>
+  <a href="https://github.com/krishivsurti/ocello"><img alt="Ocello" src="https://img.shields.io/badge/Ocello-file_transfer-149DD6?style=for-the-badge" /></a>
+  <a href="https://github.com/krishivsurti/Ganakayantra"><img alt="Ganakayantra" src="https://img.shields.io/badge/Ganakayantra-first_app-5B7FE8?style=for-the-badge" /></a>
 </div>
 
 ---
 
 ## Selected work
 
-### Zumuro — one music home
+### 🎵 Zumuro: one music home
 
-[![Zumuro — two worlds, one music home](https://raw.githubusercontent.com/krishivsurti/zumuro/main/docs/media/cover.png)](https://zumuro.web.app)
+[![Zumuro: two worlds, one music home](https://raw.githubusercontent.com/krishivsurti/zumuro/main/docs/media/cover.png)](https://zumuro.web.app)
 
-A music experience for the browser and Android. Search for music, create playlists, and bring supported Spotify, YouTube, and CSV playlists into one library. The Android app adds background playback and lock-screen controls.
+A music experience for the browser and Android. Search for music, create playlists, and bring supported Spotify, YouTube and CSV playlists into one library. The Android app adds background playback and lock-screen controls.
 
 [Web player](https://zumuro.web.app/app) · [Android download](https://github.com/krishivsurti/zumuro-downloads/releases/latest) · [Project showcase](https://github.com/krishivsurti/zumuro) · [Watch the film](https://krishivsurti.github.io/zumuro/#film)
 
-### Ganakayantra — where it started
+### 🪶 Ocello: files, to and fro
 
-[![Ganakayantra — my first Android project](https://raw.githubusercontent.com/krishivsurti/Ganakayantra/main/docs/media/cover.png)](https://github.com/krishivsurti/Ganakayantra)
+[![Ocello: fast, encrypted file transfer between Android and Windows](https://raw.githubusercontent.com/krishivsurti/ocello/main/docs/banner.png)](https://github.com/krishivsurti/ocello)
+
+Fast, encrypted file transfer between Android and Windows over your own hotspot or Wi-Fi, with no internet, cables or accounts. Thousands of files move in batches and large files over parallel streams, and every transfer is TLS-encrypted and locked to each device's key, with a verification code when pairing.
+
+[Download](https://github.com/krishivsurti/ocello/releases/latest) · [Project page](https://github.com/krishivsurti/ocello) · [Security](https://github.com/krishivsurti/ocello/blob/main/SECURITY.md)
+
+### 🧮 Ganakayantra: where it started
+
+[![Ganakayantra: my first Android project](https://raw.githubusercontent.com/krishivsurti/Ganakayantra/main/docs/media/cover.png)](https://github.com/krishivsurti/Ganakayantra)
 
 My first app, built in 2024: a calculator with an expanded calculation panel and a length converter. A small project that started my journey of building applications.
 
@@ -32,14 +43,17 @@ My first app, built in 2024: a calculator with an expanded calculation panel and
 
 ## What I work with
 
-**Web:** JavaScript · TypeScript · React · HTML · CSS · Vite  
-**Apps & services:** Android · Kotlin · Firebase  
-**Focus:** responsive interfaces, music playback, and making everyday interactions easier.
+| | |
+|---|---|
+| **Web** | JavaScript · TypeScript · React · HTML · CSS · Vite |
+| **Apps** | Flutter · Dart · Android · Kotlin · Windows desktop |
+| **Services** | Firebase |
+| **I care about** | Responsive interfaces, music playback, fast local networking, and privacy by default |
 
 ## Feedback & ideas
 
-Tried one of my apps? Share feedback, report a problem, or suggest a feature through the project's GitHub discussions or issues.
+Tried one of my apps? Share feedback, report a problem or suggest a feature on the project's GitHub page.
 
-[Zumuro community](https://github.com/krishivsurti/zumuro/discussions) · [Ganakayantra community](https://github.com/krishivsurti/Ganakayantra/discussions)
+[Zumuro community](https://github.com/krishivsurti/zumuro/discussions) · [Ocello issues](https://github.com/krishivsurti/ocello/issues/new/choose) · [Ganakayantra community](https://github.com/krishivsurti/Ganakayantra/discussions)
 
-<sub>My public project repositories are showcases, documentation, and downloads. Application source code remains private.</sub>
+<sub>My public project repositories are showcases, documentation and downloads. Application source code remains private.</sub>
